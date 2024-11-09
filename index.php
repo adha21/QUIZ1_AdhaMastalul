@@ -9,7 +9,7 @@
 <body>
     <!-- card -->
     <div class="container">
-        <div class="row mt-5">>
+        <div class="row mt-5">
             <div class="col-6 m-auto">
                 <div class="card">
                     <div class="card-header">
