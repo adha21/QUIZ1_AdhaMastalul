@@ -16,7 +16,7 @@
                         Form Dosen
                     </div>
                         <div class="card-body">
-                            <form action="#" method="POST" enctype="multipart/form-data">
+                            <form action="proses.php" method="POST" enctype="multipart/form-data">
                                 <div class="mb-3">
                                     <label for="exampleInputEmail1" class="form-label">NIDN</label>
                                     <input type="text" name="nidn" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
